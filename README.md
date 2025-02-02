@@ -1,5 +1,7 @@
 # Regex-CreditCardValidator
 
+A simple command line application that matches credit card numbers to the appropriate regular expression patterns and validates the credit card.
+
 Run the code on the command line using `node CardValidator.js`
 
 ## Description of the Regex Patterns used for verifying the different card types
