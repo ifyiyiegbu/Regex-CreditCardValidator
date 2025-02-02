@@ -22,7 +22,7 @@ The pattern used to test for a Master card is `/^5[1-5][0-9]{14}$/`
 
 - 5 means that the first character in the string should be the number 5.
 - [1-5] means that the second character should be a digit between 1 and 5.
-- [0-9]{14} means that after the second string should be 14 digits between 0 and 9.
+- [0-9]{14} means that after the second character should be 14 digits between 0 and 9.
 - ^ and $:- The caret symbol and the dollar symbol at the beginning and end of the pattern mean that the string should begin and end as the expression states.
 
 ### Verve Card Regex Pattern
